@@ -11,32 +11,20 @@ The material can be accessed via Google Colab Notebook:
 You will need Anaconda for Python (for any OS) installed on your computer. We will use Anaconda's Jupyter Notebook to learn Python. From the main menu, see **Python Reference Guide > Python: Installation Guide** for more information about installing Anaconda on your computer.
 
 
-## Local installation
-
-Alternatively, if you want to run it locally, we suggest you use [Anaconda](https://docs.anaconda.com/free/anaconda/install/) (or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)) to manage a virtual environment and install dependencies.
+## Local installation (Linux)
+We suggest you use [Anaconda](https://docs.anaconda.com/free/anaconda/install/) (or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)) to manage a virtual environment and install dependencies.
 
 
 ### First, create an environment with the following command:
 
 ```bash
-$ conda create -n workshop_ml
-```
-
-### Then, install dependencies via pip:
-
-
-```bash
-$ conda activate workshop_ml
-
-$ conda install python=3.10
-
-$ pip install -r requirements.txt
+$ conda create -n workshop_python
 ```
 
 ### If you need to run under this environment at any time, use the following command to activate it and open the notebook:
 
 ```bash
-$ conda activate workshop_ml
+$ conda activate workshop_python
 
 $ jupyter notebook
 ```
