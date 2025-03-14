@@ -8,7 +8,7 @@ The material can be accessed via Google Colab Notebook:
 - [Intro to Python](https://colab.research.google.com/github/SCIE2100-learning-hub/intro_to_python/blob/master/Intro_to_Python_InClass_2025.ipynb)
 
 ## Before you attend the practical session in Week 4:
-You will need Anaconda for Python (for any OS) installed on your computer. We will use Anaconda's Jupyter Notebook to learn Python. From the main menu, see **Python Reference Guide > Python**: Installation Guide for more information about installing Anaconda on your computer.
+You will need Anaconda for Python (for any OS) installed on your computer. We will use Anaconda's Jupyter Notebook to learn Python. From the main menu, see **Python Reference Guide > Python: Installation Guide** for more information about installing Anaconda on your computer.
 
 
 ## Local installation
